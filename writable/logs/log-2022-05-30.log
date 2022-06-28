@@ -1,0 +1,152 @@
+CRITICAL - 2022-05-30 13:17:10 --> Undefined property: CodeIgniter\HTTP\IncomingRequest::$getMethod
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 11)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 13:17:12 --> Undefined property: CodeIgniter\HTTP\IncomingRequest::$getMethod
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 11)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 13:18:31 --> Undefined property: App\Controllers\Login::$resquest
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 12)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 13:18:34 --> Undefined property: App\Controllers\Login::$resquest
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 12)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 13:19:51 --> Undefined property: App\Controllers\Login::$resquest
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 12)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 13:20:09 --> Undefined property: App\Controllers\Login::$resquest
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 12)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 13:20:42 --> Undefined property: App\Controllers\Login::$resquest
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 12)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 13:20:57 --> Undefined property: App\Controllers\Login::$resquest
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 12)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 13:22:33 --> Undefined property: App\Controllers\Login::$resquest
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 12)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 13:26:16 --> Undefined property: App\Controllers\Login::$resquest
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 12)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 13:26:21 --> Undefined property: App\Controllers\Login::$resquest
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 12)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 13:31:21 --> Undefined property: App\Controllers\Login::$resquest
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 12)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 13:32:14 --> Undefined property: App\Controllers\Login::$resquest
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 12)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 13:55:22 --> Undefined property: App\Controllers\Login::$resquest
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 12)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 13:55:45 --> Undefined property: App\Controllers\Login::$resquest
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 12)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 13:56:28 --> Undefined property: App\Controllers\Login::$resquest
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 12)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 13:57:12 --> Undefined property: App\Controllers\Login::$resquest
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 12)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 13:57:49 --> Undefined property: App\Controllers\Login::$resquest
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Login.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 12)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Login->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-30 14:00:48 --> Undefined property: App\Controllers\Home::$resquest
+#0 D:\Xampp\htdocs\Revisao2022\TCC-CI2\app\Controllers\Home.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\Xampp\\htdocs...', 40)
+#1 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(832): App\Controllers\Home->logar()
+#2 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xampp\htdocs\Revisao2022\TCC-CI2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xampp\htdocs\Revisao2022\TCC-CI2\system\Commands\Server\rewrite.php(43): require_once('D:\\Xampp\\htdocs...')
+#6 {main}
