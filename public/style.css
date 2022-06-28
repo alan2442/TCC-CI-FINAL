@@ -1,0 +1,111 @@
+
+body {
+    background: white;
+}
+
+.conteudo {
+    background: white;
+    height: 100%;
+    padding: 20px;
+}
+
+
+.rodape{
+    background: black;
+    color: rgb(47, 153, 252);
+    padding: 20px;
+    font-family: "Times New Roman", Times, Serif;
+}
+/* Estilos Menu(NAVBAR)*/
+.logotipo{
+    width: 125px;
+    height: 125px;
+    padding: 10px;
+    margin: 5px;
+    float: left;
+}
+
+.menu {
+    background: black;
+    width: 100%;
+    float: left;
+    border: 1px solid cyan;
+}
+
+.link-navbar {
+    background: black;
+    font-size: 30px;
+    height: 3px;
+    padding: 70px;
+    padding-left: 5px; 
+    float: left;
+    /* border: 1px solid red;   */
+    display: block;  
+}
+
+.div-form {
+    float: left;
+    width: 400px;
+    height: 10px;
+    /* border: 1px solid blue; */
+    padding: 55px;
+    padding-left: 0px;
+    font-size: 30px;
+    color: rgb(47, 153, 252);
+}
+
+/* Fim estilos menu*/ 
+
+
+#pagina_inicial {
+    background: white;
+    height: 500px;
+    padding: 20px;
+}
+
+
+
+
+.clear {
+    clear: left;
+}
+
+#login {
+    background: black;
+    width: 500px;
+    float: left;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: rgb(47, 153, 252);
+    
+    
+}
+
+.formatacao-buttom {
+    background: black;
+    font-size: 17px;
+    padding: 5px;
+    color: rgb(47, 153, 252);;
+    width: 85px;
+    border: 1px solid rgb(47, 153, 252);
+
+
+}
+
+.formatacao-input{
+    padding: 5px;
+    width: 300px;
+}
+
+
+
+
+
+
+
+
+
